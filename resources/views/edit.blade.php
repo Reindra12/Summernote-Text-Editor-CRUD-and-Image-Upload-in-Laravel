@@ -39,6 +39,7 @@
     <script>
         $('#description').summernote({
             placeholder: 'description...',
+            
             tabsize:2,
             height:300
         });
